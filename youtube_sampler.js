@@ -27,7 +27,7 @@
 
 	// loads attributes from the youtube video player
 	var video, startTime, endTime;
-	function initVideo () {hi
+	function initVideo () {
 		var $video = $("video")
 		video = $video[0]
 
